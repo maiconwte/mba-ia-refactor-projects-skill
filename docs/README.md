@@ -8,7 +8,7 @@ Este diretório documenta o ciclo **Research → Plan → Implement** para a ski
 |------|--------|-----------|
 | Research | Concluída | [`research/`](./research/) |
 | Plan | Concluída | [`plan/`](./plan/) |
-| Implement | Pendente | `.claude/skills/refactor-arch/`, código MVC, `reports/` |
+| Implement | Concluída | `.claude/skills/refactor-arch/`, código MVC, `reports/` |
 
 ## Ferramenta fixada
 
